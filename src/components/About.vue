@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="about">
     <h1>{{ msg }}</h1>
     <a href="/">Home</a>
 </div>
